@@ -1,0 +1,21 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Palačinke",
+      "imageUrl": null,
+      "ingredients": "brašno,jaja,mleko",
+      "instructions": "Pomešaj sastojke i isprži na tiganju.",
+      "allergens": ["gluten","jaja"]
+    },
+    {
+      "id": 2,
+      "title": "Salata od paradajza",
+      "imageUrl": null,
+      "ingredients": "paradajz,so,ulje",
+      "instructions": "Iseci paradajz, začini i promešaj.",
+      "allergens": []
+    }
+    /* možeš dodati još recepta */
+  ]
+}
